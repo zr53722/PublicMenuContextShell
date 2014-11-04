@@ -1,0 +1,10 @@
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\bin\PublicMenuContextShell.dll
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\bin\PublicMenuContextShell.pdb
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\ResolveAssemblyReference.cache
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\PublicMenuContextShell.csproj.ResolveComReference.cache
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\PublicMenuContextShell.csproj.GenerateResource.Cache
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\PublicMenuContextShell.dll
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\PublicMenuContextShell.pdb
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\PublicMenuContextShell.FrmDownLoad.resources
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\bin\ICSharpCode.SharpZipLib.dll
+D:\FISH平台\PublicMenuContextShell\PublicMenuContextShell\obj\Debug\PublicMenuContextShell.Resource.resources

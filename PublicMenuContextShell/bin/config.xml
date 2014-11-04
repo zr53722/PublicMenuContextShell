@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfToolMode>
+    <ToolMode Id="SCideId" Name="检查XML配置正确性" Type="SCide.Program" MenuContextType="1072,1138" AssemblyMethod="Show"  AddinFile="SCide\SCide.exe" IsNewest="true" Suffix=".xml"  Version="1.0.0.0" IconId="141"/>
+
+    <ToolMode Id="SickleId" Name="典型页面创建工具" Type="Sickle.Shell.SellCommand" MenuContextType="1026,1073,1137,1136" AssemblyMethod="ShowWizard"  AddinFile="Sickle\Sickle.Shell.dll" IsNewest="true" Version="1.0.0.0" IconId="2519" />
+
+    <ToolMode Id="QuickBuildPrjId" Name="编译当前项目" Type="QuickBuild.Program" MenuContextType="1026,1073,1072" AssemblyMethod="CompileSlnPrj"  AddinFile="QuickBuild\QuickBuild.dll" IsNewest="true" Version="1.0.0.0" IconId="346" />
+
+    <ToolMode Id="QuickBuildSlnId" Name="编译整个Sln" Type="QuickBuild.Program" MenuContextType="1043" AssemblyMethod="CompileSln"  AddinFile="QuickBuild\QuickBuild.dll" IsNewest="true" Version="1.0.0.0" IconId="346"/>
+
+<ToolMode Id="FastFixBug" Name="Bug快速识别" Type="FastFixBug.Program" MenuContextType="1026,1073,1137,1136,1072,1138,1043" AssemblyMethod="Main"  AddinFile="FastFixBug\FastFixBug.exe" IsNewest="true" Version="1.0.0.0" IconId="2517"/>
+</ArrayOfToolMode>
